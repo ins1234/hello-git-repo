@@ -1,0 +1,4 @@
+*.ignored
+*~
+*.[oa]
+#some comments and .gitignore 

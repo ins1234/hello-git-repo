@@ -24,3 +24,4 @@ C6
 C3
 C8
 C9
+Add reset task

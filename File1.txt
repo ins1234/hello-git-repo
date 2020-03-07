@@ -11,3 +11,4 @@ Squash2
 Squash3
 Squash4
 No commit1
+No commit2

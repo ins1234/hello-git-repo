@@ -22,3 +22,6 @@ DEFGH
 3
 Y
 X
+MM
+NN
+PP
